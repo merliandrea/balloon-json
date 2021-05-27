@@ -3,7 +3,10 @@
   "month_price": 10,
   "timestamp": 1622127162,
   "translations": {
-    "title": "Gelato",
-    "title-1": "Gelato"
+    "navigation-bar-home": "Home",
+    "navigation-bar-explore": "Esplora",
+    "navigation-bar-coach": "Impara",
+    "navigation-bar-dictionary": "Dizionario",
+    "navigation-bar-profile": "Utente"
   }
 }]
