@@ -3,18 +3,25 @@
     "month_price": 10,
     "timestamp": 1622127162,
     "translations": {
+        
         "utility-loading": "Caricamento",
+
         "navigation-bar-home": "Home",
         "navigation-bar-explore": "Esplora",
         "navigation-bar-coach": "Impara",
         "navigation-bar-dictionary": "Dizionario",
         "navigation-bar-profile": "Utente",
-        "explore-page-title": "#empty# scegli la prossima lezione tramite categorie",
+
         "explore-page-count-module": "Categorie",
         "explore-page-count-exercise": "Esercizi",
-        "dictionary-page-title-thin": "Urban",
+        "explore-page-title-thin-1": "#empty# ",
+        "explore-page-title-bold-1": "sceglia la prossima",
+        "explore-page-title-thin-2": " lezione ",
+        "explore-page-title-bold-2": "tramite categorie",
+
+        "dictionary-page-title-thin": "Urban ",
         "dictionary-page-title-bold": "Dictionary",
         "dictionary-page-tab-1": "Il mio dizionario",
-        "dictionary-page-tab-2": "Tutti gli slangs"
+        "dictionary-page-tab-2": "Tutti gli slang"
     }
 }]
