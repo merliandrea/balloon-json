@@ -1,12 +1,12 @@
-{
-  'minVersion': 14,
-  'month_price': 10,
-  'timestamp': 1622127162,
-  'translation': {
-    'title': 'Gelato',
-    'navigation-bar': {
-      'home': 'Home',
-      'explore': 'Esplora',
+[{
+  "minVersion": 14,
+  "month_price": 10,
+  "timestamp": 1622127162,
+  "translation": {
+    "title": "Gelato",
+    "navigation-bar": {
+      "home": "Home",
+      "explore": "Esplora",
     }
   }
-}
+}]
