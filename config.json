@@ -1,0 +1,20 @@
+[{
+    "minVersion": 14,
+    "month_price": 10,
+    "timestamp": 1622127162,
+    "translations": {
+        "utility-loading": "Caricamento",
+        "navigation-bar-home": "Home",
+        "navigation-bar-explore": "Esplora",
+        "navigation-bar-coach": "Impara",
+        "navigation-bar-dictionary": "Dizionario",
+        "navigation-bar-profile": "Utente",
+        "explore-page-title": "#empty# scegli la prossima lezione tramite categorie",
+        "explore-page-count-module": "Categorie",
+        "explore-page-count-exercise": "Esercizi",
+        "dictionary-page-title-thin": "Urban",
+        "dictionary-page-title-bold": "Dictionary",
+        "dictionary-page-tab-1": "Il mio dizionario",
+        "dictionary-page-tab-2": "Tutti gli slang"
+    }
+}]
