@@ -2,7 +2,7 @@
   "minVersion": 14,
   "month_price": 10,
   "timestamp": 1622127162,
-  "label": {
+  "translations": {
     "title": "Gelato",
     "title-1": "Gelato"
   }
