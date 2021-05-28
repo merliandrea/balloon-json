@@ -88,6 +88,9 @@
         "exercises-bottom-sheet-exit-button-subtitle": "Sicuro di voler uscire?",
         "exercises-bottom-sheet-exit-button-title": "Fifone che non sei altro 😱",
         "exercises-bottom-sheet-exit-button-quit": "Esci",
-        "exercises-bottom-sheet-exit-button-cancel": "Annulla"
+        "exercises-bottom-sheet-exit-button-cancel": "Annulla",
+
+        "exercises-result-title": "C'è l'hai fatta anche questa volta 👑",
+        "exercises-result-button": "Controlla i risultati"
     }
 }]
