@@ -46,7 +46,6 @@
         "dictionary-mine-text-empty": "Il tuo dizionario è vuoto",
         "dictionary-mine-button-empty": "Salva il tuo primo slang",
 
-
         "coach-go-to-module": "Apri la categoria",
         "coach-sheet-caption": "combo",
         "coach-sheet-title": "Cosa sono le combo",
@@ -60,6 +59,24 @@
         "card-slang-button-add": "Aggiungi al dizionario",
         "card-slang-button-remove": "Rimuovi dal dizionario",
         "card-slang-button-saved-event": "Slang aggiunto al dizionario!",
-        "card-slang-button-remove-event": "Slang rimosso al dizionario!"
+        "card-slang-button-remove-event": "Slang rimosso al dizionario!",
+
+
+
+        "exercises-start-indication": "Inzia ad imparare",
+        "exercises-start-loading": "Sto scarico gli esercizi..",
+
+        "exercises-game-button-skip": "Salta esercizio",
+        "exercises-game-button-check": "Controlla Esercizio",
+        "exercise-game-button-permission-microphone": "'Modificare i permessi nelle impostazioni!'",
+        "exercise-game-button-play-microphone": "Tappa e parla",
+        
+        "exercises-bottom-sheet-caption-correct": "Risposta corretta",
+        "exercises-bottom-sheet-title-correct": "Bravo, vuoi un applauso 👏🏻",
+        
+        "exercises-bottom-sheet-caption-wrong": "Risposta sbagliata",
+        "exercises-bottom-sheet-title-wrong": "Complimenti hai sbagliato 🐴",
+
+        "exercises-bottom-sheet-button-continue": "Continua"
     }
 }]
