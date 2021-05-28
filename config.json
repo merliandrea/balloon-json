@@ -102,6 +102,10 @@
         "exercises-result-button-continue": "Lezione #empty1# - Continua",
 
         "slang-words": "PAROLE",
-        "slang-verbs": "VERBI"
+        "slang-verbs": "VERBI",
+
+        "share-title": "Scarica Gelato",
+        "share-lesson-subject": "Gioca alla lezione: #empty1# URL:#empty2#",
+        "share-module-subject": "Gioca al modulo: #empty1# URL:#empty2#"
     }
 }]
