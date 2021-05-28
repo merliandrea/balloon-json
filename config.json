@@ -71,6 +71,7 @@
         "exercises-game-button-check": "Controlla Esercizio",
         "exercise-game-button-permission-microphone": "'Modificare i permessi nelle impostazioni!'",
         "exercise-game-button-play-microphone": "Tappa e parla",
+        "exercise-game-button-listen-microphone": "Fai click qui per ascoltare",
         
         "exercises-bottom-sheet-caption-correct": "Risposta corretta",
         "exercises-bottom-sheet-title-correct": "Bravo, vuoi un applauso 👏🏻",
@@ -90,7 +91,7 @@
         "exercises-bottom-sheet-exit-button-quit": "Esci",
         "exercises-bottom-sheet-exit-button-cancel": "Annulla",
 
-        "exercises-end-title": "C'è l'hai fatta anche questa volta 👑",
+        "exercises-end-title": "Lezione conclusa, scopri i dettagli del tuo risultato",
         "exercises-end-button": "Controlla i risultati",
 
         "exercises-result-title-completed": "Completo",
