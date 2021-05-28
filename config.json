@@ -6,6 +6,7 @@
         
         "utility-loading": "Caricamento",
         "utility-empty": "Qui non c'è nulla",
+        "utility-error": "Si è verificato un errore. Riprova!",
 
         "navigation-bar-home": "Home",
         "navigation-bar-explore": "Esplora",
@@ -77,6 +78,11 @@
         "exercises-bottom-sheet-caption-wrong": "Risposta sbagliata",
         "exercises-bottom-sheet-title-wrong": "Complimenti hai sbagliato 🐴",
 
-        "exercises-bottom-sheet-button-continue": "Continua"
+        "exercises-bottom-sheet-button-continue": "Continua",
+
+        "exercises-bottom-sheet-feedback-title": "Riporta errore",
+        "exercises-bottom-sheet-feedback-placeholder": "Inserisci report..",
+        "exercises-bottom-sheet-feedback-button-send": "Invia report",
+        "exercises-bottom-sheet-feedback-button-sended": "Grazie della segnalazione!"
     }
 }]
