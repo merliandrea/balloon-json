@@ -90,7 +90,14 @@
         "exercises-bottom-sheet-exit-button-quit": "Esci",
         "exercises-bottom-sheet-exit-button-cancel": "Annulla",
 
-        "exercises-result-title": "C'è l'hai fatta anche questa volta 👑",
-        "exercises-result-button": "Controlla i risultati"
+        "exercises-end-title": "C'è l'hai fatta anche questa volta 👑",
+        "exercises-end-button": "Controlla i risultati",
+
+        "exercises-result-title-completed": "Completo",
+        "exercises-result-title-not-completed": "Non Completo",
+        "exercises-result-title": "Vocaboli e slang che hai imparato",
+        "exercises-result-button-module": "Vai al modulo",
+        "exercises-result-button-repeat": "Riprova ora",
+        "exercises-result-button-continue": "Lezione #empty1# - Continua"
     }
 }]
