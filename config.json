@@ -22,6 +22,19 @@
         "dictionary-page-title-thin": "Urban ",
         "dictionary-page-title-bold": "Dictionary",
         "dictionary-page-tab-1": "Il mio dizionario",
-        "dictionary-page-tab-2": "Tutti gli slang"
+        "dictionary-page-tab-2": "Tutti gli slang",
+
+        "coach-go-to-module": "Go to module",
+        "coach-sheet-caption": "combo",
+        "coach-sheet-title": "Cosa sono le combo",
+        "coach-sheet-description": "Consequat excepteur mollit amet officia culpa voluptate. Voluptate elit sit minim consequat elit eiusmod. Exercitation ullamco ullamco non eiusmod officia in esse ea veniam deserunt. Velit aliqua adipisicing ut proident esse. Enim duis consequat nostrud ea laborum reprehenderit consectetur ea veniam elit nisi officia ipsum fugiat. Excepteur duis ex ea sint laborum. Aliquip labore et id dolor eu reprehenderit voluptate voluptate sunt magna in voluptate cillum. Lorem laboris nulla.",
+
+        "card-slang-add-link": "Aggiungi al dizionario",
+        "card-slang-saved-link": "Salvato nel dizionario",
+        "card-slang-caption": "Slang",
+        "card-slang-button-add": "Aggiungi al dizionario",
+        "card-slang-button-remove": "Rimuovi dal dizionario",
+        "card-slang-button-saved-event": "Slang aggiunto al dizionario!",
+        "card-slang-button-remove-event": "Slang rimosso al dizionario!"
     }
 }]
