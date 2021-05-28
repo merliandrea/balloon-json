@@ -83,6 +83,11 @@
         "exercises-bottom-sheet-feedback-title": "Riporta errore",
         "exercises-bottom-sheet-feedback-placeholder": "Inserisci report..",
         "exercises-bottom-sheet-feedback-button-send": "Invia report",
-        "exercises-bottom-sheet-feedback-button-sended": "Grazie della segnalazione!"
+        "exercises-bottom-sheet-feedback-button-sended": "Grazie della segnalazione!",
+
+        "exercises-bottom-sheet-exit-button-subtitle": "Sicuro di voler uscire?",
+        "exercises-bottom-sheet-exit-button-title": "Fifone che non sei altro 😱",
+        "exercises-bottom-sheet-exit-button-quit": "Esci",
+        "exercises-bottom-sheet-exit-button-cancel": "Annulla"
     }
 }]
