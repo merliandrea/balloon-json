@@ -99,6 +99,9 @@
         "exercises-result-title": "Vocaboli e slang che hai imparato",
         "exercises-result-button-module": "Vai al modulo",
         "exercises-result-button-repeat": "Riprova ora",
-        "exercises-result-button-continue": "Lezione #empty1# - Continua"
+        "exercises-result-button-continue": "Lezione #empty1# - Continua",
+
+        "slang-words": "Parole",
+        "slang-verbs": "Verbi"
     }
 }]
