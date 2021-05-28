@@ -5,6 +5,7 @@
     "translations": {
         
         "utility-loading": "Caricamento",
+        "utility-empty": "Qui non c'è nulla",
 
         "navigation-bar-home": "Home",
         "navigation-bar-explore": "Esplora",
@@ -34,6 +35,10 @@
         "module-list-2": "Materiale esclusivo per imparare la lingua",
         "module-list-3": "Report finale",
 
+        "module-button-play": "Inizia",
+        "module-button-continue": "Lezione #empty1# - Continua",
+        "module-button-repeat": "Ripeti Modulo",
+
         "dictionary-page-title-thin": "Urban ",
         "dictionary-page-title-bold": "Dictionary",
         "dictionary-page-tab-1": "Il mio dizionario",
@@ -43,6 +48,8 @@
         "coach-sheet-caption": "combo",
         "coach-sheet-title": "Cosa sono le combo",
         "coach-sheet-description": "Consequat excepteur mollit amet officia culpa voluptate. Voluptate elit sit minim consequat elit eiusmod. Exercitation ullamco ullamco non eiusmod officia in esse ea veniam deserunt. Velit aliqua adipisicing ut proident esse. Enim duis consequat nostrud ea laborum reprehenderit consectetur ea veniam elit nisi officia ipsum fugiat. Excepteur duis ex ea sint laborum. Aliquip labore et id dolor eu reprehenderit voluptate voluptate sunt magna in voluptate cillum. Lorem laboris nulla.",
+        "coach-button-true": "vero",
+        "coach-button-false": "falso",
 
         "card-slang-add-link": "Aggiungi al dizionario",
         "card-slang-saved-link": "Salvato nel dizionario",
