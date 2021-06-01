@@ -69,6 +69,31 @@
         "card-topic-home-link": "Maggiori informazioni",
         "card-topic-home-caption": "Topic",
 
+        "card-section-coach-caption":"Feature",
+        "card-section-coach-title":"Coach",
+        "card-section-coach-description":"Ex ipsum eiusmod incididunt veniam mollit anim anim exercitation.",
+        "card-section-coach-link":"Maggiori Informazioni",
+
+        "card-section-explore-caption":"Feature",
+        "card-section-explore-title":"Explore",
+        "card-section-explore-description":"Ex ipsum eiusmod incididunt veniam mollit anim anim exercitation.",
+        "card-section-explore-link":"Maggiori Informazioni",
+
+        "card-section-dictionary-caption":"Feature",
+        "card-section-dictionary-title":"Dictionary",
+        "card-section-dictionary-description":"Ex ipsum eiusmod incididunt veniam mollit anim anim exercitation.",
+        "card-section-dictionary-link":"Maggiori Informazioni",
+
+        "card-section-profile-caption":"Feature",
+        "card-section-profile-title":"Profile",
+        "card-section-profile-description":"Ex ipsum eiusmod incididunt veniam mollit anim anim exercitation.",
+        "card-section-profile-link":"Maggiori Informazioni",
+
+        "card-section-paywall-caption":"Feature",
+        "card-section-paywall-title":"Gelato Plus",
+        "card-section-paywall-description":"Ex ipsum eiusmod incididunt veniam mollit anim anim exercitation.",
+        "card-section-paywall-link":"Maggiori Informazioni",
+        
         "home-title-topic": "Ecco i topic",
         "home-title-module": "Ecco i moduli",
         "home-title-slang": "Ecco lo slang del giorno",
