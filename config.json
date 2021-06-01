@@ -95,7 +95,8 @@
         "card-section-paywall-link":"Maggiori Informazioni",
         
         "home-title-topic": "Ecco i topic",
-        "home-title-module": "Ecco i moduli",
+        "home-title-module-with-progress": "Ecco i moduli con progress",
+        "home-title-module-not-progress": "Ecco i moduli senza progress",
         "home-title-slang": "Ecco lo slang del giorno",
         "home-title-section": "Ecco le sezioni",
 
