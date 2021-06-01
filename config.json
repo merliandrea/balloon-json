@@ -64,15 +64,18 @@
         "card-slang-button-remove-event": "Slang rimosso al dizionario!",
         "card-slang-home-caption": "Urban dictionary",
         "card-slang-home-add": "Aggiungi",
-        "card-slang-home-saved": "Aggiunto",
+        "card-slang-home-saved": "salvato",
 
         "card-topic-home-link": "Maggiori informazioni",
         "card-topic-home-caption": "Topic",
 
+        "home-title-topic": "Ecco i topic",
+        "home-title-module": "Ecco i moduli",
+        "home-title-slang": "Ecco lo slang del giorno",
+        "home-title-section": "Ecco le sezioni",
 
-
-        "exercises-start-indication": "Inzia ad imparare",
-        "exercises-start-loading": "Sto scarico gli esercizi..",
+        "exercises-start-indication": "Inizia ad imparare",
+        "exercises-start-loading": "Sto scaricando gli esercizi..",
 
         "exercises-game-button-skip": "Salta esercizio",
         "exercises-game-button-check": "Controlla Esercizio",
