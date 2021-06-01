@@ -1,5 +1,5 @@
 [{
-    "minVersion": 0,
+    "minVersion": 14,
     "month_price": 10,
     "timestamp": 1622127162,
     "translations": {
@@ -7,6 +7,7 @@
         "utility-loading": "Caricamento",
         "utility-empty": "Qui non c'è nulla",
         "utility-error": "Si è verificato un errore. Riprova!",
+        "utility-button-pill-plus": "Go plus",
 
         "navigation-bar-home": "Home",
         "navigation-bar-explore": "Esplora",
@@ -61,6 +62,12 @@
         "card-slang-button-remove": "Rimuovi dal dizionario",
         "card-slang-button-saved-event": "Slang aggiunto al dizionario!",
         "card-slang-button-remove-event": "Slang rimosso al dizionario!",
+        "card-slang-home-caption": "Urban dictionary",
+        "card-slang-home-add": "Aggiungi",
+        "card-slang-home-saved": "Aggiunto",
+
+        "card-topic-home-link": "Maggiori informazioni",
+        "card-topic-home-caption": "Topic",
 
 
 
@@ -103,6 +110,7 @@
 
         "slang-words": "PAROLE",
         "slang-verbs": "VERBI",
+
         "share-title": "Scarica Gelato",
         "share-lesson-subject": "Gioca alla lezione: #empty1# URL:#empty2#",
         "share-module-subject": "Gioca al modulo: #empty1# URL:#empty2#"
